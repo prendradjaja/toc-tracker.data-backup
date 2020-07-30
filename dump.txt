@@ -8,80 +8,80 @@
  id |                 title                 
 ----+---------------------------------------
   1 | The Paper Menagerie and Other Stories
-  2 | All These Wonders
+  3 | All These Wonders
 (2 rows)
 
- id | book_id |                                title                                |            read_at            
-----+---------+---------------------------------------------------------------------+-------------------------------
-  1 |       1 | Preface   p. vii                                                    | 
-  2 |       1 | The Bookmaking Habits of Select Species   p. 1                      | 2020-07-26 01:17:12.658643+00
-  3 |       1 | State Change   p. 10                                                | 2020-07-26 01:17:15.555737+00
-  4 |       1 | The Perfect Match   p. 26                                           | 
-  5 |       1 | Good Hunting   p. 51                                                | 
-  6 |       1 | The Literomancer   p. 74                                            | 2020-07-26 01:17:21.802549+00
-  7 |       1 | Simulacrum   p. 112                                                 | 2020-07-26 01:17:20.059603+00
-  8 |       1 | The Regular   p. 123                                                | 
-  9 |       1 | The Paper Menagerie   p. 178                                        | 2020-07-26 01:22:51.302255+00
- 10 |       1 | An Advanced Readers' Picture Book of Comparative Cognition   p. 193 | 
- 11 |       1 | The Waves   p. 208                                                  | 
- 12 |       1 | Mono No Aware   p. 234                                              | 
- 13 |       1 | All the Flavors   p. 255                                            | 
- 14 |       1 | A Brief History of the Trans-Pacific Tunnel   p. 344                | 
- 15 |       1 | The Litigation Master and the Monkey King   p. 363                  | 
- 16 |       1 | The Man Who Ended History: A Documentary   p. 389                   | 2020-07-26 01:17:26.697097+00
- 17 |       2 | Foreword / Neil Gaiman                                              | 
- 18 |       2 | Introduction / Catherine Burns                                      | 
- 19 |       2 | THE ETERNAL MUSIC OF THE SPHERES _________________                  | 
- 20 |       2 | The moon and stars talks / Tara Clancy                              | 2020-07-26 01:21:19.637864+00
- 21 |       2 | Unusual normality / Ishmael Beah                                    | 
- 22 |       2 | The quest for Chad / Arthur Bradford                                | 
- 23 |       2 | The house of mourning / Kate Braestrup                              | 
- 24 |       2 | The girl from Beckenham / Suzi Ronson                               | 
- 25 |       2 | God, death, and Francis Crick / Christof Koch                       | 
- 26 |       2 | THINGS I'VE SEEN _________________                                  | 
- 27 |       2 | Fog of disbelief / Carl Pillitteri                                  | 
- 28 |       2 | The two times I met Laurence Fishburne / Chenjerai Kumanyika        | 
- 29 |       2 | It matters a great deal / Kevin McGeehan                            | 
- 30 |       2 | A tale of two dinners / Bliss Broyard                               | 
- 31 |       2 | Untitled / Louis C.K.                                               | 
- 32 |       2 | Walking with RJ / Stephanie Peirolo                                 | 
- 33 |       2 | KEEPING THE LID ON _________________                                | 
- 34 |       2 | Go the %&# to sleep / Adam Mansbach                                 | 
- 35 |       2 | Panic on the road to Jericho / Nadia Bolz-Weber                     | 
- 36 |       2 | Jenny / Samuel James                                                | 
- 37 |       2 | Déjà vu (again) / Cole Kazdin                                       | 
- 38 |       2 | Call me Charlie / Josh Bond                                         | 
- 39 |       2 | Modern family / Sara Barron                                         | 
- 40 |       2 | R2, where are you? / Tig Notaro                                     | 
- 41 |       2 | GRACE RUSHES IN _________________                                   | 
- 42 |       2 | The shower / Tomi Reichental                                        | 
- 43 |       2 | Cut / Josh Broder                                                   | 
- 44 |       2 | A phone call / Auburn Sandstrom                                     | 
- 45 |       2 | Who can you trust? / Mary-Claire King                               | 
- 46 |       2 | A new home / Dori Samadzai Bonner                                   | 
- 47 |       2 | Greener grass / Jane Green                                          | 
- 48 |       2 | As if I was not there / Peter Pringle                               | 
- 49 |       2 | LIKE A MAN DOES _________________                                   | 
- 50 |       2 | Stumbling in the dark / John Turturro                               | 
- 51 |       2 | Coming of age in a mausoleum / George Dawes Green                   | 
- 52 |       2 | Downstairs neighbors / Shannon Cason                                | 
- 53 |       2 | Undercover in North Korea with its future leaders / Suki Kim        | 
- 54 |       2 | My grandfather's shoes / Christian Garland                          | 
- 55 |       2 | Leaping forward / Cybele Abbett                                     | 
- 56 |       2 | TO FACE THE FEAR _________________                                  | 
- 57 |       2 | Prom / Hasan Minhaj                                                 | 
- 58 |       2 | But also bring cheese / Kate Tellers                                | 
- 59 |       2 | Tired, from New York / Jessi Klein                                  | 
- 60 |       2 | An impossible choice / Sasha Chanoff                                | 
- 61 |       2 | Then you will know! / Moshe Schulman                                | 
- 62 |       2 | The price of freedom / Noreen Riols                                 | 
- 63 |       2 | BY EVERY CLAIM OF LOVE _________________                            | 
- 64 |       2 | Summer camp / Meg Wolitzer                                          | 
- 65 |       2 | The weight of a ring / Amy Biancolli                                | 
- 66 |       2 | Light and hope / Bethany van Delft                                  | 
- 67 |       2 | Kidneys and commitments / Gil Reyes                                 | 
- 68 |       2 | On approach to Pluto / Cathy Olkin                                  | 
- 69 |       2 | Forgiveness / Hector Black                                          | 
- 70 |       2 | California gothic / Taylor Negron                                   | 
+ id  | book_id |                                title                                |            read_at            
+-----+---------+---------------------------------------------------------------------+-------------------------------
+   1 |       1 | Preface   p. vii                                                    | 
+   2 |       1 | The Bookmaking Habits of Select Species   p. 1                      | 2020-07-26 01:17:12.658643+00
+   3 |       1 | State Change   p. 10                                                | 2020-07-26 01:17:15.555737+00
+   4 |       1 | The Perfect Match   p. 26                                           | 
+   5 |       1 | Good Hunting   p. 51                                                | 
+   6 |       1 | The Literomancer   p. 74                                            | 2020-07-26 01:17:21.802549+00
+   7 |       1 | Simulacrum   p. 112                                                 | 2020-07-26 01:17:20.059603+00
+   8 |       1 | The Regular   p. 123                                                | 
+   9 |       1 | The Paper Menagerie   p. 178                                        | 2020-07-26 01:22:51.302255+00
+  10 |       1 | An Advanced Readers' Picture Book of Comparative Cognition   p. 193 | 
+  11 |       1 | The Waves   p. 208                                                  | 
+  12 |       1 | Mono No Aware   p. 234                                              | 
+  13 |       1 | All the Flavors   p. 255                                            | 
+  14 |       1 | A Brief History of the Trans-Pacific Tunnel   p. 344                | 
+  15 |       1 | The Litigation Master and the Monkey King   p. 363                  | 
+  16 |       1 | The Man Who Ended History: A Documentary   p. 389                   | 2020-07-26 01:17:26.697097+00
+  71 |       3 | Foreword / Neil Gaiman / xi                                         | 
+  72 |       3 | Introduction / Catherine Burns / xv                                 | 
+  73 |       3 | THE ETERNAL MUSIC OF THE SPHERES _________________                  | 
+  74 |       3 | The moon and stars talks / Tara Clancy / 3                          | 2020-07-26 03:58:48.388114+00
+  75 |       3 | Unusual normality / Ishmael Beah / 9                                | 
+  76 |       3 | The quest for Chad / Arthur Bradford / 18                           | 
+  77 |       3 | The house of mourning / Kate Braestrup / 27                         | 
+  78 |       3 | The girl from Beckenham / Suzi Ronson / 33                          | 
+  79 |       3 | God, death, and Francis Crick / Christof Koch / 41                  | 
+  80 |       3 | THINGS I'VE SEEN _________________                                  | 
+  81 |       3 | Fog of disbelief / Carl Pillitteri / 51                             | 
+  82 |       3 | The two times I met Laurence Fishburne / Chenjerai Kumanyika / 59   | 
+  83 |       3 | It matters a great deal / Kevin McGeehan / 66                       | 2020-07-26 03:58:50.398287+00
+  84 |       3 | A tale of two dinners / Bliss Broyard / 74                          | 
+  85 |       3 | Untitled / Louis C.K. / 82                                          | 
+  86 |       3 | Walking with RJ / Stephanie Peirolo / 87                            | 
+  87 |       3 | KEEPING THE LID ON _________________                                | 
+  88 |       3 | Go the %&# to sleep / Adam Mansbach / 97                            | 
+  89 |       3 | Panic on the road to Jericho / Nadia Bolz-Weber / 105               | 
+  90 |       3 | Jenny / Samuel James / 112                                          | 
+  91 |       3 | Déjà vu (again) / Cole Kazdin / 118                                 | 
+  92 |       3 | Call me Charlie / Josh Bond / 125                                   | 
+  93 |       3 | Modern family / Sara Barron / 132                                   | 
+  94 |       3 | R2, where are you? / Tig Notaro / 140                               | 
+  95 |       3 | GRACE RUSHES IN _________________                                   | 
+  96 |       3 | The shower / Tomi Reichental / 149                                  | 
+  97 |       3 | Cut / Josh Broder / 154                                             | 
+  98 |       3 | A phone call / Auburn Sandstrom / 162                               | 
+  99 |       3 | Who can you trust? / Mary-Claire King / 167                         | 
+ 100 |       3 | A new home / Dori Samadzai Bonner / 174                             | 
+ 101 |       3 | Greener grass / Jane Green / 181                                    | 
+ 102 |       3 | As if I was not there / Peter Pringle / 188                         | 
+ 103 |       3 | LIKE A MAN DOES _________________                                   | 
+ 104 |       3 | Stumbling in the dark / John Turturro / 195                         | 
+ 105 |       3 | Coming of age in a mausoleum / George Dawes Green / 203             | 
+ 106 |       3 | Downstairs neighbors / Shannon Cason / 209                          | 
+ 107 |       3 | Undercover in North Korea with its future leaders / Suki Kim / 215  | 
+ 108 |       3 | My grandfather's shoes / Christian Garland / 222                    | 
+ 109 |       3 | Leaping forward / Cybele Abbett / 226                               | 
+ 110 |       3 | TO FACE THE FEAR _________________                                  | 
+ 111 |       3 | Prom / Hasan Minhaj / 233                                           | 
+ 112 |       3 | But also bring cheese / Kate Tellers / 241                          | 
+ 113 |       3 | Tired, from New York / Jessi Klein / 249                            | 
+ 114 |       3 | An impossible choice / Sasha Chanoff / 259                          | 
+ 115 |       3 | Then you will know! / Moshe Schulman / 267                          | 
+ 116 |       3 | The price of freedom / Noreen Riols / 275                           | 
+ 117 |       3 | BY EVERY CLAIM OF LOVE _________________                            | 
+ 118 |       3 | Summer camp / Meg Wolitzer / 285                                    | 
+ 119 |       3 | The weight of a ring / Amy Biancolli / 291                          | 
+ 120 |       3 | Light and hope / Bethany van Delft / 297                            | 
+ 121 |       3 | Kidneys and commitments / Gil Reyes / 305                           | 
+ 122 |       3 | On approach to Pluto / Cathy Olkin / 310                            | 
+ 123 |       3 | Forgiveness / Hector Black / 315                                    | 
+ 124 |       3 | California gothic / Taylor Negron / 322                             | 
 (70 rows)
 
